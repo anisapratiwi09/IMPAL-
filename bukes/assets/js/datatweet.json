@@ -1,0 +1,31 @@
+[
+        {
+            "text" : "Kurang-kurangin dah",
+            "timestamp" : "Mon Feb 18 04:06:00",
+            "favourite_count" : "5k",
+            "retweet_count" : "1k",
+            "user":
+                {
+                    "screen_name" : "D",
+                    "name" : "Dagelan",
+                    "followers_count" : "4000",
+                    "friends_count" : "2000",
+                    "url_image" : "as.jpg"
+                }  
+        },
+        {
+            "text" : "Push lagi boy ampe conqueror",
+            "timestamp" : "Mon Feb 18 04:14:30",
+            "favourite_count" : "1k",
+            "retweet_count" : "450",
+            "user":
+                {
+                    "screen_name" : "M",
+                    "name" : "Milyhya",
+                    "followers_count" : "9000",
+                    "friends_count" : "350",
+                    "url_image" : "cm.jpg"
+                }  
+        }
+]
+
